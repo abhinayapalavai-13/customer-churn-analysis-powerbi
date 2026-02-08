@@ -25,8 +25,6 @@ Analyze customer churn patterns and identify high-risk segments.
 
 ## Dashboard Preview
 
-## Dashboard Preview
-
 ### Executive Overview
 ![Overview](screenshots/overview.png)
 
