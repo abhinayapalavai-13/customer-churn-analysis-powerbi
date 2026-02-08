@@ -22,3 +22,12 @@ Analyze customer churn patterns and identify high-risk segments.
 - Power BI
 - Power Query
 - DAX
+
+## Dashboard Preview
+
+### Executive Overview
+![Overview](screenshots/overview.png)
+
+### Customer Segmentation
+![Insights](screenshots/insights.png)
+
